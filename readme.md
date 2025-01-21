@@ -251,3 +251,6 @@ touch ../readme.md &&
 [![次元狗 – 动漫资源分享下载,二次元世界](res/58c0a765b2373cce0460a2bbfdecc933.webp)](https://www.acgndog.com/)
 
 [![南+ South Plus - powered by Pu!mdHd](res/654ff792a09b35c5a828cdcbd4b61f5f.webp)](https://south-plus.org/ )
+
+
+[![绅士仓库 - ★绅士的ACG资源分享社区★](content://media/external/downloads/1000457800)(https://cangku.moe/)
