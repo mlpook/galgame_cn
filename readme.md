@@ -74,7 +74,7 @@ touch ../readme.md &&
 
 [【黄油】多娜多娜](https://t.me/dohnaduona)
 
-[LSP游戏目录](https://t.me/LsplistGame)(https://t.me/gallist)
+[LSP游戏目录](https://t.me/LsplistGame)下载(https://t.me/gallist)
 
 ## 网站
 
