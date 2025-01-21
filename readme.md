@@ -50,6 +50,32 @@ touch ../readme.md &&
 
 [一起钓大鱼](https://t.me/dayuyud)
 
+[黄油](https://t.me/acgca)
+
+[安卓黄油](https://t.me/Galgamesisn)
+
+[黄油派对](https://t.me/huangyou_A)
+
+[PerfectLife](https://t.me/PerfectLife_Channel)
+
+[Farr的黄油仓库](https://t.me/farrslgrpg)
+
+[月之屋](https://t.me/newmoonhouse)
+
+[安卓黄油&领域](https://t.me/thomasasat)
+
+[陌上花开青烟阁](https://t.me/HY_QingYan)
+
+[Acg便利贴](https://t.me/Zhzbzx)
+
+[黄油中心](https://t.me/LPS99)
+
+[一起钓大鱼](https://t.me/dayuyud)
+
+[【黄油】多娜多娜](https://t.me/dohnaduona)
+
+[LSP游戏目录](https://t.me/LsplistGame)(https://t.me/gallist)
+
 ## 网站
 
 <figure class="image">
