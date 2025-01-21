@@ -70,8 +70,6 @@ touch ../readme.md &&
 
 [黄油中心](https://t.me/LPS99)
 
-[一起钓大鱼](https://t.me/dayuyud)
-
 [【黄油】多娜多娜](https://t.me/dohnaduona)
 
 [LSP游戏目录](https://t.me/LsplistGame)下载(https://t.me/gallist)
