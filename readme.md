@@ -253,4 +253,4 @@ touch ../readme.md &&
 [![南+ South Plus - powered by Pu!mdHd](res/654ff792a09b35c5a828cdcbd4b61f5f.webp)](https://south-plus.org/ )
 
 
-[![绅士仓库 - ★绅士的ACG资源分享社区★](content://media/external/downloads/1000457800)(https://cangku.moe/)
+[![绅士仓库 - ★绅士的ACG资源分享社区★](res/IMG_20250121_125754_045.webp)(https://cangku.moe/)
