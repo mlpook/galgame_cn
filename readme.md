@@ -34,6 +34,8 @@ touch ../readme.md &&
 
 [Visual Novel Channel](https://t.me/erogamecloud)
 
+[灵梦会所](https://t.me/lmys8)
+
 [秘密基地之游戏仓储中心](https://t.me/heiheinon)
 
 [『雨夜凉亭』ACG频道](https://t.me/yuyeweimian)
